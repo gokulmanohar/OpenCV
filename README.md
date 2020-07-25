@@ -1,2 +1,2 @@
 # OpenCV
-My first OpenCV projects
+My first OpenCV project
